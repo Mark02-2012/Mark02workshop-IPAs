@@ -1,0 +1,25 @@
+"name": "Mark02's Workshop IPA source",
+  "identifier": "com.mark02ipas.source",
+  "subtitle": "IPA source for Mark02's mods/forks (OFFICIAL)",
+  "description": "My IPAs of MaxTube and MaxMusic  Telegram Channel: https://t.me/Mark02workshop_official",
+  "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/ipavault-altstore-repo-logo.png",
+  "sourceURL": "https://raw.githubusercontent.com/927tx/IPA-Vault/refs/heads/main/ipavaultsource.json",
+  "apps": [
+    {
+      "name": "MaxTube latest",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Mark02",
+      "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Discord-Icons/Discord-AppStore-1024x1024.png",
+      "subtitle": "MaxTube 1.7 with YouTube version 21.38.3",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "1.7",
+          "date": "2026-09-26",
+          "localizedDescription": "MaxTube 1.7 with YouTube version 21.38.3",
+          "downloadURL": "https://files.catbox.moe/ot1244.ipa",
+          "size": 148443899
+        }
+      ],
+      "appPermissions": {}
+    },
