@@ -50,7 +50,7 @@
       "name": "MaxTube 1.7 (iOS 15+)",
       "bundleIdentifier": "com.google.ios.youtubeios15",
       "developerName": "Mark02",
-      "downloadURL": "https://files.catbox.moe/19zdaw.ipa",
+      "downloadURL": "https://files.catbox.moe/4vi7gk.ipa",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "subtitle": "MaxTube 1.7 with YouTube version 21.33.6",
       "localizedDescription": "MaxTube 1.7 with YouTube version 20.21.6",
@@ -60,8 +60,8 @@
           "version": "20.21.6",
           "date": "2026-09-27",
           "localizedDescription": "MaxTube 1.7 with YouTube version 20.21.6",
-          "downloadURL": "https://files.catbox.moe/19zdaw.ipa",
-          "size": 130168062
+          "downloadURL": "https://files.catbox.moe/4vi7gk.ipa",
+          "size": 130150712
         }
       ],
       "appPermissions": {}
