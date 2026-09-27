@@ -2,7 +2,7 @@
   "identifier": "com.mark02ipas.source",
   "subtitle": "IPA source for Mark02's mods/forks (OFFICIAL)",
   "description": "My IPAs of MaxTube and MaxMusic  Telegram Channel: https://t.me/Mark02workshop_official",
-  "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/ipavault-altstore-repo-logo.png",
+  "iconURL": "https://raw.githubusercontent.com/Mark02-2012/Mark02workshop-IPAs/main/marklogo.jpg",
   "sourceURL": "https://raw.githubusercontent.com/Mark02-2012/Mark02workshop-IPAs/refs/heads/main/mark02ipas.json",
   "apps": [
     {
