@@ -7,7 +7,7 @@
   "sourceURL": "https://raw.githubusercontent.com/Mark02-2012/Mark02workshop-IPAs/refs/heads/main/mark02ipas.json",
   "apps": [
     {
-      "name": "MaxTube latest",
+      "name": "MaxTube 1.7 (latest)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Mark02",
       "downloadURL": "https://files.catbox.moe/ot1244.ipa",
@@ -17,8 +17,8 @@
       "tintColor": "#FF0000",
       "versions": [
         {
-          "version": "1.7",
-          "date": "2026-09-26",
+          "version": "21.38.3",
+          "date": "2026-09-27",
           "localizedDescription": "MaxTube 1.7 with YouTube version 21.38.3",
           "downloadURL": "https://files.catbox.moe/ot1244.ipa",
           "size": 148443899
