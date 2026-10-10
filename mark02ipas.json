@@ -2,7 +2,7 @@
   "name": "Mark02's Workshop IPA source",
   "identifier": "com.mark02ipas.source",
   "subtitle": "IPA source for Mark02's mods/forks (OFFICIAL)",
-  "description": "My IPAs of MaxTube and MaxMusic (will add MaxMusic soon) Telegram Channel: https://t.me/Mark02workshop_official (UPDATES WILL BE SLOWER AS I NEED TO REBUILD ALL THE IPAS WITH A DIFFERENT BUNDLE ID FOR THIS REPO)",
+  "description": "My IPAs of MaxTube and MaxMusic Telegram Channel: https://t.me/Mark02workshop_official (UPDATES WILL BE SLOWER AS I NEED TO REBUILD ALL THE IPAS WITH A DIFFERENT BUNDLE ID FOR THIS REPO)",
   "iconURL": "https://raw.githubusercontent.com/Mark02-2012/Mark02workshop-IPAs/main/marklogo.jpg",
   "sourceURL": "https://raw.githubusercontent.com/Mark02-2012/Mark02workshop-IPAs/refs/heads/main/mark02ipas.json",
   "apps": [
@@ -52,7 +52,7 @@
       "developerName": "Mark02",
       "downloadURL": "https://files.catbox.moe/pffsq5.ipa",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "subtitle": "MaxTube 2.0 with YouTube version 21.33.6",
+      "subtitle": "MaxTube 2.0 with YouTube version 20.21.6",
       "localizedDescription": "MaxTube 2.0 with YouTube version 20.21.6",
       "tintColor": "#FF0000",
       "versions": [
@@ -62,6 +62,66 @@
           "localizedDescription": "MaxTube 2.0 with YouTube version 20.21.6",
           "downloadURL": "https://files.catbox.moe/pffsq5.ipa",
           "size": 130156492
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "MaxMusic 1.2 (latest)",
+      "bundleIdentifier": "com.google.ios.youtubemusiclatest",
+      "developerName": "Mark02",
+      "downloadURL": "https://files.catbox.moe/g781eh.ipa",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "subtitle": "MaxMusic 1.2 with YouTube Music version 9.40.2",
+      "localizedDescription": "MaxMusic 1.2 with YouTube Music version 9.40.2",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "9.40.2",
+          "date": "2026-10-10",
+          "localizedDescription": "MaxMusic 1.2 with YouTube Music version 9.40.2",
+          "downloadURL": "https://files.catbox.moe/g781eh.ipa",
+          "size": 106847785
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "MaxMusic 1.2 (no-YMP; recommended)",
+      "bundleIdentifier": "com.google.ios.youtubemusicnoymp",
+      "developerName": "Mark02",
+      "downloadURL": "https://files.catbox.moe/oq007m.ipa",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "subtitle": "MaxMusic 1.2 with YouTube Music version 9.40.2; YouMusicPiP is removed",
+      "localizedDescription": "MaxMusic 1.2 with YouTube Music version 9.40.2; YouMusicPiP is removed",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "9.40.2",
+          "date": "2026-10-10",
+          "localizedDescription": "MaxMusic 1.2 with YouTube Music version 9.40.2; YouMusicPiP is removed",
+          "downloadURL": "https://files.catbox.moe/oq007m.ipa",
+          "size": 106837438
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "YTMusicUltimate custom (latest)",
+      "bundleIdentifier": "com.google.ios.youtubemusicultimate",
+      "developerName": "Mark02",
+      "downloadURL": "https://files.catbox.moe/dd6s6l.ipa",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "subtitle": "YTMusicUltimate 2.4.1 customized with YouTube Music version 9.40.2",
+      "localizedDescription": "YTMusicUltimate 2.4.1 customized with YouTube Music version 9.40.2",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "9.40.2",
+          "date": "2026-10-10",
+          "localizedDescription": "YTMusicUltimate 2.4.1 customized with YouTube Music version 9.40.2",
+          "downloadURL": "https://files.catbox.moe/dd6s6l.ipa",
+          "size": 106742636
         }
       ],
       "appPermissions": {}
