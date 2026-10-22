@@ -7,61 +7,81 @@
   "sourceURL": "https://raw.githubusercontent.com/Mark02-2012/Mark02workshop-IPAs/refs/heads/main/mark02ipas.json",
   "apps": [
     {
-      "name": "MaxTube 2.0 (latest)",
+      "name": "MaxTube 2.1 (latest)",
       "bundleIdentifier": "com.google.ios.youtubelatest",
       "developerName": "Mark02",
-      "downloadURL": "https://files.catbox.moe/zlsrvz.ipa",
+      "downloadURL": "https://files.catbox.moe/4sjrbh.ipa",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "subtitle": "MaxTube 2.0 with YouTube version 21.40.5",
-      "localizedDescription": "MaxTube 2.0 with YouTube version 21.40.5",
+      "subtitle": "MaxTube 2.1 with YouTube version 21.42.4",
+      "localizedDescription": "MaxTube 2.1 with YouTube version 21.42.4",
       "tintColor": "#FF0000",
       "versions": [
         {
-          "version": "21.40.5",
-          "date": "2026-10-06",
-          "localizedDescription": "MaxTube 2.0 with YouTube version 21.40.5",
-          "downloadURL": "https://files.catbox.moe/zlsrvz.ipa",
-          "size": 148249185
+          "version": "21.42.4",
+          "date": "2026-10-22",
+          "localizedDescription": "MaxTube 2.1 with YouTube version 21.42.4",
+          "downloadURL": "https://files.catbox.moe/4sjrbh.ipa",
+          "size": 149840612
         }
       ],
       "appPermissions": {}
     },
     {
-      "name": "MaxTube 2.0 (iOS 16+)",
+      "name": "MaxTube 2.1 (iOS 16+)",
       "bundleIdentifier": "com.google.ios.youtubeios16",
       "developerName": "Mark02",
-      "downloadURL": "https://files.catbox.moe/yf6w6u.ipa",
+      "downloadURL": "https://files.catbox.moe/mq4ig4.ipa",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "subtitle": "MaxTube 2.0 with YouTube version 21.33.6",
-      "localizedDescription": "MaxTube 2.0 with YouTube version 21.33.6",
+      "subtitle": "MaxTube 2.1 with YouTube version 21.33.6",
+      "localizedDescription": "MaxTube 2.1 with YouTube version 21.33.6",
       "tintColor": "#FF0000",
       "versions": [
         {
           "version": "21.33.6",
-          "date": "2026-10-06",
-          "localizedDescription": "MaxTube 2.0 with YouTube version 21.33.6",
-          "downloadURL": "https://files.catbox.moe/yf6w6u.ipa",
-          "size": 145175528
+          "date": "2026-10-22",
+          "localizedDescription": "MaxTube 2.1 with YouTube version 21.33.6",
+          "downloadURL": "https://files.catbox.moe/mq4ig4.ipa",
+          "size": 145176171
         }
       ],
       "appPermissions": {}
     },
     {
-      "name": "MaxTube 2.0 (iOS 15+)",
+      "name": "MaxTube 2.1 (iOS 15+)",
       "bundleIdentifier": "com.google.ios.youtubeios15",
       "developerName": "Mark02",
-      "downloadURL": "https://files.catbox.moe/pffsq5.ipa",
+      "downloadURL": "https://files.catbox.moe/s9qw1q.ipa",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "subtitle": "MaxTube 2.0 with YouTube version 20.21.6",
-      "localizedDescription": "MaxTube 2.0 with YouTube version 20.21.6",
+      "subtitle": "MaxTube 2.1 with YouTube version 20.21.6",
+      "localizedDescription": "MaxTube 2.1 with YouTube version 20.21.6",
       "tintColor": "#FF0000",
       "versions": [
         {
           "version": "20.21.6",
-          "date": "2026-10-06",
-          "localizedDescription": "MaxTube 2.0 with YouTube version 20.21.6",
-          "downloadURL": "https://files.catbox.moe/pffsq5.ipa",
-          "size": 130156492
+          "date": "2026-10-22",
+          "localizedDescription": "MaxTube 2.1 with YouTube version 20.21.6",
+          "downloadURL": "https://files.catbox.moe/s9qw1q.ipa",
+          "size": 130157143
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "MaxTube 2.1 (stability IPA)",
+      "bundleIdentifier": "com.google.ios.youtubestability",
+      "developerName": "Mark02",
+      "downloadURL": "https://files.catbox.moe/pc5n0i.ipa",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "subtitle": "MaxTube 2.1 with YouTube version 21.24.3 and YTPlus 5.2.2",
+      "localizedDescription": "MaxTube 2.1 with YouTube version 21.24.3 and YTPlus 5.2.2",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-10-22",
+          "localizedDescription": "MaxTube 2.1 with YouTube version 21.24.3 and YTPlus 5.2.2",
+          "downloadURL": "https://files.catbox.moe/pc5n0i.ipa",
+          "size": 129087833
         }
       ],
       "appPermissions": {}
